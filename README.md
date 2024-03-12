@@ -1,0 +1,3 @@
+EXERCISE FOR MERGING CONFLICTS
+
+Feature 1 and Feature 2
